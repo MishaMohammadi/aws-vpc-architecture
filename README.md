@@ -149,16 +149,6 @@ sudo apt install nginx -y
 
 ---
 
-## EC2 Instance
-![EC2 Instance](screenshots/ec2-instance.png)
-
----
-
-## Website Output
-![Website Output](screenshots/website-output.png)
-
----
-
 # Learning Outcomes
 
 Through this project, I learned:
