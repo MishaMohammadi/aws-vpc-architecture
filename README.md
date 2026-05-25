@@ -114,8 +114,6 @@ sudo apt install nginx -y
 
 # Project Screenshots
 
-# Project Screenshots
-
 ## VPC Overview
 ![VPC Overview](screenshots/1-vpc-overview.png)
 
