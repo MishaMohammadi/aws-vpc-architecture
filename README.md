@@ -117,25 +117,23 @@ sudo apt install nginx -y
 ## VPC Overview
 ![VPC Overview](screenshots/vpc-overview.png)
 
----
-
 ## Subnets
 ![Subnets](screenshots/subnets.png)
-
----
 
 ## Route Table
 ![Route Table](screenshots/route-table.png)
 
----
-
 ## Internet Gateway
 ![Internet Gateway](screenshots/internet-gateway.png)
 
----
-
 ## Security Group
 ![Security Group](screenshots/security-group.png)
+
+## EC2 Instance
+![EC2 Instance](screenshots/ec2-instance.png)
+
+## Website Output
+![Website Output](screenshots/website-output.png)
 
 ---
 
